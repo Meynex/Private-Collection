@@ -1,5 +1,5 @@
 #!/usr/bin/expect -f
-set address A0:E9:D8:0F:A2:1A
+set address XX:XX:XX:XX:XX
 set temp 1
 spawn bluetoothctl -a
 expect -re "#"
